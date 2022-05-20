@@ -19,4 +19,4 @@ Le FarmingChest est un outil qui va beaucoup faciliter la vie des farmers sur le
 
 > Craft débloquable au niveau 9 du métier #help/farmeur
 
-{{craft#craft/craft_farming_chest}} 
+{{craft#craft/craft_farming_chest}}  
